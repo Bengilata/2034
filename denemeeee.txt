@@ -1,2 +1,4 @@
 print("ben patates severim. patates adam olmak yaşasın.");
-print("maklube");
+print("ben");
+print("bennnnn");
+
